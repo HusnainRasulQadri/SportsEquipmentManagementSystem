@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "623d990823fd631e1b1ec176"
+  },
+  "name": "Abdullah",
+  "DOB": "2022-03-02",
+  "username": "19I-0476",
+  "password": "123",
+  "Type": "student"
+},{
+  "_id": {
+    "$oid": "623d9afce33b1a72216f9ffc"
+  },
+  "name": "Husnain Rasul Qadri",
+  "DOB": "2017-03-08",
+  "username": "19I-0441",
+  "password": "1234",
+  "Type": "student"
+}]
